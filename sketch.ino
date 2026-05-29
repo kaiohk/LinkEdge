@@ -1,7 +1,7 @@
 // Desenvolvido por:
 // - KAIO HIROKI KINOSHITA - RM569127
 // - LEONARDO DANIEL DOS SANTOS - RM571092
-// - MATHEUS DIONISIO CINTRA - 569844
+// - MATHEUS DIONISIO CINTRA - RM569844
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
